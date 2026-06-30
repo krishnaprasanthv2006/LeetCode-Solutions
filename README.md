@@ -6,5 +6,6 @@ Solutions of leetcode problems.
 ## Database
 |  |
 | ------- |
+| [1070-product-sales-analysis-iii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1193-monthly-transactions-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
