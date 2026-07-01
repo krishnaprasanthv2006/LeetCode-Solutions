@@ -11,5 +11,10 @@ Solutions of leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1313-decompress-run-length-encoded-list](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
