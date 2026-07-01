@@ -12,6 +12,7 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1313-decompress-run-length-encoded-list](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 ## Prefix Sum
@@ -22,4 +23,8 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+## Hash Table
+|  |
+| ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 <!---LeetCode Topics End-->
