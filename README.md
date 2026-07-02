@@ -11,6 +11,7 @@ Solutions of leetcode problems.
 | [1070-product-sales-analysis-iii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
 | [1193-monthly-transactions-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 ## Array
 |  |
 | ------- |
