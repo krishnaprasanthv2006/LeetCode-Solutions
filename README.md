@@ -34,4 +34,12 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0290-word-pattern) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
