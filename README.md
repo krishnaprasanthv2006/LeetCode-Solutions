@@ -31,11 +31,13 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## String
 |  |
 | ------- |
 | [0290-word-pattern](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,8 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
