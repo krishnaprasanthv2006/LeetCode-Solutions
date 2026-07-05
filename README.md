@@ -36,11 +36,13 @@ Solutions of leetcode problems.
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |
@@ -50,4 +52,12 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
