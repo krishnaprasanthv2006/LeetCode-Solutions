@@ -6,6 +6,7 @@ Solutions of leetcode problems.
 ## Database
 |  |
 | ------- |
+| [0511-game-play-analysis-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0511-game-play-analysis-i) |
 | [0619-biggest-single-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1070-product-sales-analysis-iii) |
