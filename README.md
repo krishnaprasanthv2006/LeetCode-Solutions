@@ -40,6 +40,7 @@ Solutions of leetcode problems.
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [0434-number-of-segments-in-a-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 ## Math
 |  |
