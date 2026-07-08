@@ -44,6 +44,7 @@ Solutions of leetcode problems.
 | [0434-number-of-segments-in-a-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1446-consecutive-characters](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 ## Math
 |  |
 | ------- |
