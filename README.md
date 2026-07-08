@@ -21,6 +21,7 @@ Solutions of leetcode problems.
 | [0724-find-pivot-index](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1313-decompress-run-length-encoded-list](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
+| [1528-shuffle-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Solutions of leetcode problems.
 | [0709-to-lower-case](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1446-consecutive-characters](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
+| [1528-shuffle-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 ## Math
 |  |
 | ------- |
