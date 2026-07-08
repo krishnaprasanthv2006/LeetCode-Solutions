@@ -19,6 +19,7 @@ Solutions of leetcode problems.
 | [0414-third-maximum-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1313-decompress-run-length-encoded-list](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 ## Prefix Sum
 |  |
@@ -42,6 +43,7 @@ Solutions of leetcode problems.
 | [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0434-number-of-segments-in-a-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0709-to-lower-case) |
+| [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +65,8 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 <!---LeetCode Topics End-->
