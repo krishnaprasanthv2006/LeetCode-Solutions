@@ -22,6 +22,7 @@ Solutions of leetcode problems.
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1313-decompress-run-length-encoded-list](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1528-shuffle-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Solutions of leetcode problems.
 | [0290-word-pattern](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
@@ -48,6 +50,7 @@ Solutions of leetcode problems.
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1446-consecutive-characters](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
@@ -71,6 +74,7 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
 | ------- |
