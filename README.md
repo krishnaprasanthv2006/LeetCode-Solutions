@@ -48,11 +48,13 @@ Solutions of leetcode problems.
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1446-consecutive-characters](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -78,4 +80,8 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
