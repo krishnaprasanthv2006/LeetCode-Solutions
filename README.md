@@ -50,6 +50,7 @@ Solutions of leetcode problems.
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1446-consecutive-characters](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [2027-minimum-moves-to-convert-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [2609-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2609-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -88,5 +89,6 @@ Solutions of leetcode problems.
 ## Greedy
 |  |
 | ------- |
+| [2027-minimum-moves-to-convert-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
