@@ -48,6 +48,7 @@ Solutions of leetcode problems.
 | [0434-number-of-segments-in-a-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1332-remove-palindromic-subsequences](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1446-consecutive-characters](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1446-consecutive-characters) |
 | [1528-shuffle-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
 | [2027-minimum-moves-to-convert-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2027-minimum-moves-to-convert-string) |
@@ -82,6 +83,7 @@ Solutions of leetcode problems.
 | ------- |
 | [0392-is-subsequence](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [1332-remove-palindromic-subsequences](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
