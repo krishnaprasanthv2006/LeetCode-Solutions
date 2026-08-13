@@ -75,6 +75,7 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0338-counting-bits](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Solutions of leetcode problems.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
