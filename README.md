@@ -16,6 +16,7 @@ Solutions of leetcode problems.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -43,6 +44,7 @@ Solutions of leetcode problems.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0290-word-pattern](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -101,4 +103,8 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
