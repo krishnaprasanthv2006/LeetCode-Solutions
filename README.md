@@ -17,6 +17,7 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -86,6 +87,7 @@ Solutions of leetcode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0392-is-subsequence](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1332-remove-palindromic-subsequences](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1332-remove-palindromic-subsequences) |
