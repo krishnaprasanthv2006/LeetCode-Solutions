@@ -26,11 +26,13 @@ Solutions of leetcode problems.
 | [0821-shortest-distance-to-a-character](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [1313-decompress-run-length-encoded-list](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1528-shuffle-string](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1528-shuffle-string) |
+| [1872-stone-game-viii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1872-stone-game-viii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ Solutions of leetcode problems.
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [1872-stone-game-viii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
@@ -102,6 +105,7 @@ Solutions of leetcode problems.
 | ------- |
 | [0338-counting-bits](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [1872-stone-game-viii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
 | ------- |
@@ -115,4 +119,16 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+## Game Theory
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
