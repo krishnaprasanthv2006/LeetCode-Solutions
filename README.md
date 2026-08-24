@@ -19,6 +19,7 @@ Solutions of leetcode problems.
 | [0014-longest-common-prefix](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
@@ -33,11 +34,13 @@ Solutions of leetcode problems.
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -65,11 +68,13 @@ Solutions of leetcode problems.
 | ------- |
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +83,7 @@ Solutions of leetcode problems.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/krishnaprasanthv2006/LeetCode-Solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
